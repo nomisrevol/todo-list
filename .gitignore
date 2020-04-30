@@ -1,0 +1,13 @@
+*.pyc
+db.sqlite3
+.DS_Store
+venv/
+.vscode/
+
+.coverage
+/coverage
+
+.idea/
+
+node_modules/
+npm-debug.log
